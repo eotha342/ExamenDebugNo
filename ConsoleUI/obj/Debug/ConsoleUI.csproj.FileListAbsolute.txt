@@ -1,0 +1,6 @@
+C:\Users\pnogu\Desktop\examen2dvi\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\pnogu\Desktop\examen2dvi\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\pnogu\Desktop\examen2dvi\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\pnogu\Desktop\examen2dvi\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\pnogu\Desktop\examen2dvi\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\pnogu\Desktop\examen2dvi\ConsoleUI\obj\Debug\ConsoleUI.pdb
